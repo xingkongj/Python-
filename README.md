@@ -20,7 +20,7 @@
 ## 四、使用方法
 1. 克隆本仓库到本地：
 ```
-git clone [仓库地址]
+git clone [github.com/xingkongj/Python-Face-recognition]
 ```
 2. 安装所需的依赖库：
 ```
